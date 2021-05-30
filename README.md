@@ -1,6 +1,9 @@
 # Automação de Login com Puppeteer e NodeJS
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
+
+#Atenção
+> 
 [![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
 
 Script simples e de poucas linhas para automatizar o login no Unsplash com o Puppeteer e NodeJS.
@@ -21,7 +24,7 @@ Antes de começar, você precisa ter instalado em sua máquina as seguintes ferr
 - [NodeJS](https://nodejs.org/en/download/)
 - [Puppeteer](https://www.sqlite.org/download.html)
  
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/) e configurar o Puppeteer[DB Browser](https://pptr.dev/) na aplicação. 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/) e configurar o [Puppeteer](https://pptr.dev/) na aplicação. 
 
 ### 🛠 Tecnologias
 
